@@ -28,7 +28,7 @@ public class Looping_Construct_with_Floating_Point_Numbers {
 		System.out.println("The average is " + Average);
 		System.out.println("The maximum is " + Max);
 		System.out.println("The minimum is " + Min);
-		System.out.println("The interest for each number is " + interest);	
+		System.out.println("The interest for each number at 20% is " + interest);	
 	}
 
 }
