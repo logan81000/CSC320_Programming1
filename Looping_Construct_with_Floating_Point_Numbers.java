@@ -18,7 +18,6 @@ public class Looping_Construct_with_Floating_Point_Numbers {
 		}
 		input.close();
 		float Total = 0;
-		i = 0;
 		for (i = 0; i < values.size(); i++) {
 			Total += values.get(i);
 		}
